@@ -4,7 +4,7 @@ title: About
 subtitle: All about me and my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/typeface.-logo.png
 published: true
 tags: null
 description: null
