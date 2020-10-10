@@ -3,7 +3,7 @@ description: A website with a blog
 header_text: ""
 footer_text: Copyright 2020 Holly Humphries-Tsioumi
 header_feature_image: ../uploads/typeface..png
-bannerheight: 10vmax
+bannerheight: 100vh
 logo: ../uploads/android-chrome-192x192.png
 favicon: ../uploads/apple-touch-icon.png
 gridlayout: false
