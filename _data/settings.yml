@@ -2,8 +2,8 @@ title: TypeFace.
 description: A website with a blog
 header_text: ""
 footer_text: Copyright 2020 Holly Humphries-Tsioumi
-header_feature_image: ""
-bannerheight: 20vmax
+header_feature_image: ../uploads/brown-grooming-experts-beauty-logo-2.png
+bannerheight: 100vh
 logo: ../uploads/brown-grooming-experts-beauty-logo.png
 favicon: ../uploads/brown-grooming-experts-beauty-logo.png
 gridlayout: false
