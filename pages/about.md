@@ -20,6 +20,18 @@ This website is a project idea for a uni assignment which focuses on the develop
 
 On this website you will find examples of packaging, online branding and posters in relation to skincare.
 
+![](../uploads/apple-touch-icon.png)
+
+![](../uploads/brown-grooming-experts-beauty-logo-3.png)
+
 The colours of *TypeFace.* were chosen specifically to stand out and engage skincare fanatics. These colours aloud to purity, cleanliness not just focusing on femininity which tends to be the norm in the skincare industry.
 
 ![](../uploads/typeface.-2.png)
+
+Anonymous Pro is the typeface used for TypeFace, it is a monospaced font which allows all font to horizontally exist taking the same amount of space yet coexisting harmoniously. It contains normal, italic, bold and bold italic styles. Anonymous Pro's ability to change yet fit in perfectly with TypeFace.'s tone made it of great choice and use for the site.
+
+![](../uploads/typeface.-3.png)
+
+The tone of Typeface. was of great importance in the making of the brand and the website. These are some things Typeface. is about:
+
+![](../uploads/typeface.-4.png)
