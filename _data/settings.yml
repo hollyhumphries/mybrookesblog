@@ -3,7 +3,7 @@ description: A website with a blog
 header_text: ""
 footer_text: Copyright 2020 Holly Humphries-Tsioumi
 header_feature_image: ../uploads/brown-grooming-experts-beauty-logo-3.png
-bannerheight: 20vmax
+bannerheight: 100vh
 logo: ../uploads/brown-grooming-experts-beauty-logo.png
 favicon: ../uploads/brown-grooming-experts-beauty-logo.png
 gridlayout: false
