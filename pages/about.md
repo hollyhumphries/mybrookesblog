@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: All about me and my life
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/brown-grooming-experts-beauty-logo-2.png
@@ -10,11 +10,14 @@ tags: null
 description: null
 show: true
 ---
+**Hello, I'm Holly Humphries-Tsioumi.** 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+**I'm a Media, Publishing and Journalism undergraduate at Oxford Brookes University. I'm a skincare fanatic which explains the launch of *Typeface*.**
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+***TypeFace.*** is a skincare site that looks at a plethora of diffrent skincare brands on the market that have changed the way the beauty and skincare industry operate. It looks at the diffrent up and coming trends which have been brought about through the power of social media that have shaped modern day skincare and beauty regimes. *Typeface.* assists in creating and demonstrating a profile for these old and emerging beauty companies for skincare fanatics like myself. 
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+This website is a project idea for a uni assignment which focuses on the development of a brand and the online presence through the development of this website. This website will focus on the research of specific brands examining their marketing techniques and the approach to their targeted audiences through the use of textual elements within their branding that stand out to its customers or even have caused decline in the revenue of a skincare product.
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+On this website you will find examples of packaging, online branding and posters in relation to skincare.
+
+The colours of *TypeFace.* were chosen specifically to stand out and engage skincare fanatics. These colours aloud to purity, cleanliness not just focusing on femininity which tends to be exclusive in the skincare industry.
