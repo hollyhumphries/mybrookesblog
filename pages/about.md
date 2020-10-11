@@ -4,7 +4,7 @@ title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/untitled-design-4.png
+header_feature_image: ../uploads/untitled-design-5.png
 published: true
 tags: null
 description: null
@@ -20,9 +20,9 @@ This website is a project idea for a uni assignment which focuses on the develop
 
 On this website you will find examples of packaging, online branding and posters in relation to skincare.
 
-![](../uploads/apple-touch-icon.png)
+![](../uploads/brown-grooming-experts-beauty-logo-4.png "TypeFace. logo")
 
-![](../uploads/brown-grooming-experts-beauty-logo-3.png)
+![](../uploads/untitled-design-3.png)
 
 The colours of *TypeFace.* were chosen specifically to stand out and engage skincare fanatics. These colours aloud to purity, cleanliness not just focusing on femininity which tends to be the norm in the skincare industry.
 
