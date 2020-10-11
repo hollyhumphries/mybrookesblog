@@ -4,9 +4,9 @@ header_text: ""
 footer_text: Copyright 2020 Holly Humphries-Tsioumi
 header_feature_image: ../uploads/untitled-design-3.png
 bannerheight: 100vh
-logo: ../uploads/android-chrome-192x192.png
-favicon: ../uploads/apple-touch-icon.png
-gridlayout: false
-fixednavbar: false
+logo: ../uploads/brown-grooming-experts-beauty-logo-4.png
+favicon: ../uploads/brown-grooming-experts-beauty-logo-4.png
+gridlayout: true
+fixednavbar: true
 upzoom: true
 items: []
