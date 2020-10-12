@@ -21,7 +21,7 @@ Thoughtful, Inclusive, Fun, Innovative, Friendly
 
 The colours of Glossier are set to:
 
-![](../uploads/about_05.5ce21c50.jpg)
+![](../uploads/untitled-design-8.png)
 
 Characteristic and iconic colours of pink across the colour palette allude to femininity and simplicity which is encouraged by the shades of pink due to the softeness and lightness of these colours. The colours of the brand are also white which helps bring together a clean minimalist and instagramable aesthetic. The wordmark sometimes changes depending on the use and background of its placement.
 
