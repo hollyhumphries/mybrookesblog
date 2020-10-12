@@ -5,7 +5,9 @@ date: 2020-10-11T14:36:54.320Z
 header_feature_image: ../uploads/6.png
 comments: true
 ---
-If one asked Millennial women to name one skincare brand that coems to mind that would be *Glossier.* Having built an empire with a strong online presence through their marketing website, their Instagram account as well as their presence on Youtube, *Glossier* has constructed the idea of luxurious yet simple and natural skincare and makeup that's aim is the democratisation of the skincare industry. What draws you to the brand however may be the presentation of a highly photogenic product especially in this day an age. Glossier is the revolutioniser for natural glowy skin that does not hide behind the constructions of makeup.
+If one asked Millennial women to name one skincare brand that coems to mind that would be *Glossier.* Having built an empire with a strong online presence through their marketing website, their Instagram account as well as their presence on Youtube, *Glossier* has constructed the idea of luxurious yet simple and natural skincare and makeup that's aim is the democratisation of the skincare industry. 
+
+What draws you to the brand however may be the presentation of a highly photogenic product especially in this day an age. Glossier is the revolutioniser for natural glowy skin that does not hide behind the constructions of makeup.
 
 ![](../uploads/890347.png)
 
