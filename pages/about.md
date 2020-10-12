@@ -16,7 +16,7 @@ This website is a project idea for a university assignment which focuses on the 
 
 Examples of packaging, online branding and posters in relation to skincare can be found here.
 
-![](../uploads/brown-grooming-experts-beauty-logo-4.png "TypeFace. logo")
+![](../uploads/brown-grooming-experts-beauty-logo-6.png "TypeFace. logo")
 
 ![](../uploads/untitled-design-3.png)
 
