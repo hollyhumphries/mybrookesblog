@@ -6,9 +6,9 @@ header_feature_image: ../uploads/34bf5e3c43a39d63cbcbc7a1109c4914.jpeg
 caption: https://shopee.com.my/(Ready-Stocks-)-Assorted-Trial-Size-The-Ordinary-i.5127022.1393849648
 comments: true
 ---
-Clean Beauty has become a focal point of one's skincare. Whether that ranges from Korean 10 step skin care to skincare savies using Paula's choice along with other ingredient dictionary websites skincare is important to consumers more than ever.
+Clean Beauty has become a focal point of one's skincare. Whether that ranges from Korean 10 step skin care to skincare savies using Paula's choice dictionary to track ingredients, skincare has become an important part of the beauty industry. 
 
-The focus on single ingredients that are effective is greater and research and knowledge of products we apply on our faces is absolutely crucial.
+The focus on single ingredients that are effective is greater and knowledge of products we apply on our faces is absolutely crucial. Instead of the predominant focus on how to apply makeup to cover small imperfections today we focus on products that help us target problematic areas making our skin perfect from within and out naturally.
 
 This is where *The Ordinary* comes in. On the need for clean and effective skincare, The Ordinary, as of 2016 managed to launch their skincare products at significantly low price points yet being transparent of their products which the skinacre industry had been lacking for a number of years.
 
