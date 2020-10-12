@@ -2,7 +2,7 @@
 layout: post
 title: " 'Beauty products inspired by real life' Glossier."
 date: 2020-10-11T14:36:54.320Z
-header_feature_image: ../uploads/untitled-design-10.png
+header_feature_image: ../uploads/untitled-design-11.png
 caption: www.glossier.com
 comments: true
 ---
