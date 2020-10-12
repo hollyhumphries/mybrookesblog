@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "The Ordinary: The budget friendly skincare that changed the beauty
-  industry./ scene"
+title: "The Ordinary: The budget friendly skincare that changed the beauty scene."
 date: 2020-10-10T12:55:51.248Z
 header_feature_image: ../uploads/34bf5e3c43a39d63cbcbc7a1109c4914.jpeg
 caption: https://shopee.com.my/(Ready-Stocks-)-Assorted-Trial-Size-The-Ordinary-i.5127022.1393849648
