@@ -12,7 +12,7 @@ This is where *The Ordinary* comes in. On the need for clean and effective skinc
 
 *The Ordinary,* does not focus on its marketing and advertising approach, yet their minimalist approach of marketing the brand, still is an eyecatcher for skincare and ingredient list fanatics. But how have they been able to maintain such a strong profile without changing their values since their growth?
 
-![](../uploads/untitled-1_97.png)
+![](../uploads/unknown.png)
 
 The colours that *The Ordinary* uses are minimalist which is indicative of the fact that the focus is based on the research and quality of the skincare rather than the creation of fancy and luxurious branding. The colours appear to be gender neutral as they range from black, white and grey yet the bold choices of colour show the scientific and serious nature of these products, which by no means does the company want to scare its audience away but rather help the consumer benefit to the maximum through the skincare line.
 
