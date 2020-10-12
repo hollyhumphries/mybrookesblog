@@ -25,6 +25,6 @@ The typeface, *The Ordinary,* use is Raleway. It is a sans-serif typeface which 
 
 The tone of voice *The Ordinary* has are:
 
-* Friendly , Informative, Scientific, Clear and Concise, low- profile
+Friendly , Informative, Scientific, Clear and Concise, low- profile
 
-  *The Ordinary*'s skincare know their audience whether that is individuals who know how to solve any issues when it comes to ingredients and formulas one needs however there is a second demographic who are new to the skincare world who's main concern is how reliable is this product which is also The Ordinary's goal to create a trusted environment and casual yet insightful instruction when it comes to the use of their skincare range. Would you choose *The Ordinary* when creating a new skincare regimen?
+*The Ordinary*'s skincare know their audience whether that is individuals who know how to solve any issues when it comes to ingredients and formulas one needs however there is a second demographic who are new to the skincare world who's main concern is how reliable is this product which is also The Ordinary's goal to create a trusted environment and casual yet insightful instruction when it comes to the use of their skincare range. Would you choose *The Ordinary* when creating a new skincare regimen?
