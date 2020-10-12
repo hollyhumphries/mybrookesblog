@@ -21,11 +21,11 @@ Thoughtful, Inclusive, Fun, Innovative, Friendly
 
 The colours of Glossier are set to:
 
-![](../uploads/untitled-design-8.png)
+![www.glossier.com](../uploads/untitled-design-8.png)
 
 Characteristic and iconic colours of pink across the colour palette allude to femininity and simplicity which is encouraged by the shades of pink due to the softeness and lightness of these colours. The colours of the brand are also white which helps bring together a clean minimalist and instagramable aesthetic. The wordmark sometimes changes depending on the use and background of its placement.
 
-![](../uploads/untitled-design-6.png)
+![www.glossier.com](../uploads/untitled-design-6.png)
 
 Glossier uses Apercu as its Primary font which has unity and minimlism in its typography. Apercu Bold is used for headlines, Apercu Regular for the body text and Apercu Italics is used for the product description on packaging and on the website. Lowercase is used on the packaging.
 
