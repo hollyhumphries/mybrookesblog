@@ -2,7 +2,8 @@
 layout: post
 title: " 'Beauty products inspired by real life' Glossier."
 date: 2020-10-11T14:36:54.320Z
-header_feature_image: ../uploads/6.png
+header_feature_image: ../uploads/untitled-design-10.png
+caption: www.glossier.com
 comments: true
 ---
 If one asked Millennial women to name one skincare brand that coems to mind that would be *Glossier.* Having built an empire with a strong online presence through their marketing website, their Instagram account as well as their presence on Youtube, *Glossier* has constructed the idea of luxurious yet simple and natural skincare and makeup that's aim is the democratisation of the skincare industry. 
