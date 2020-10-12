@@ -30,4 +30,4 @@ Anonymous Pro is the typeface used for TypeFace, it is a monospaced font which a
 
 The tone of Typeface. was of great importance in the making of the brand and the website. These are some things Typeface. is about:
 
-![](../uploads/typeface.-4.png)
+![](../uploads/typeface.-5.png)
