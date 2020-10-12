@@ -6,9 +6,13 @@ header_feature_image: ../uploads/untitled-design-11.png
 caption: www.glossier.com
 comments: true
 ---
-If one asked Millennial women to name one skincare brand that coems to mind that would be *Glossier.* Having built an empire with a strong online presence through their marketing website, their Instagram account as well as their presence on Youtube, *Glossier* has constructed the idea of luxurious yet simple and natural skincare and makeup that's aim is the democratisation of the skincare industry. 
+If one asked Millennial women to name one skincare brand that comes to mind, that would be *Glossier.* 
 
-What draws you to the brand however may be the presentation of a highly photogenic product especially in this day an age. Glossier is the revolutioniser for natural glowy skin that does not hide behind the constructions of makeup.
+Having built an empire with a strong online presence through their marketing website, their Instagram account as well as their presence on Youtube, *Glossier.*, has constructed the idea of luxurious yet simple and natural skincare that's aim is the democratisation of the skincare industry. 
+
+What draws one to the brand may be the highly photogenic instagramable product however the brand identity is what makes Glossier., Glossier. 
+
+Glossier. is the revolutioniser for natural glowy skin that does not hide behind the constructions of makeup and photoshop. It exists for women who are not afraid to hide their natural skin, show their natural colours and use products made for everyday and real life.
 
 ![](../uploads/890347.png)
 
@@ -30,6 +34,6 @@ Characteristic and iconic colours of pink across the colour palette allude to fe
 
 ![www.glossier.com](../uploads/untitled-design-6.png)
 
-Glossier uses Apercu as its Primary font which has unity and minimlism in its typography. Apercu Bold is used for headlines, Apercu Regular for the body text and Apercu Italics is used for the product description on packaging and on the website. Lowercase is used on the packaging.
+*Glossier.* uses Apercu as its Primary font which has unity and minimlism in its typography. Apercu Bold is used for headlines, Apercu Regular for the body text and Apercu Italics is used for the product description on packaging and on the website. Lowercase is used on the packaging. *Glossier.*'s logo ends in a full stop which indicates uniqueness as not many brands choose that type of textaul layout which makes *Glossier.* stand out.
 
 ![](../uploads/untitled-design-7.png)
