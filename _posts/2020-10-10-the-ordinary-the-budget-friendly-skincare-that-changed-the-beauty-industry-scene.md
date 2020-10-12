@@ -6,13 +6,17 @@ header_feature_image: ../uploads/34bf5e3c43a39d63cbcbc7a1109c4914.jpeg
 caption: https://shopee.com.my/(Ready-Stocks-)-Assorted-Trial-Size-The-Ordinary-i.5127022.1393849648
 comments: true
 ---
-Over the years the trend to have clean beauty and makeup in one's routine has become a focal point to one's skincare regimen. The ranges vary from 10 step Korean skin care to dictionaries such as Paula's choice that focus on ingredients and how harmful they may be in skin care products. Instead of focusing on multiple promises a bottle of product promises us more than ever we have become sucked in to the idea of research and knowledge of what we apply on our faces.
+Clean Beauty has become a focal point of one's skincare. Whether that ranges from Korean 10 step skin care to skincare savies using Paula's choice along with other ingredient dictionary websites skincare is important to consumers more than ever.
 
-This is where *The Ordinary* comes in. On the need for clean and effective skincare The Ordinary as of 2016 managed to launch their skincare products at significantly low price points yet continuing the efforts for transparency within the skincare industry which had been lacking in the scene. Unlike other brands, who make a fortune every year, out of the marketisation of a product focusing on words such as 'glowy skin', 'clear skin', 'targeting acne prone skin', *The Ordinary* pioneered in creating affordable and high quality skincare products which specifically focused on one ingredient products to aid targeted areas on one's skin. 
+The focus on single ingredients that are effective is greater and research and knowledge of products we apply on our faces is absolutely crucial.
 
-*The Ordinary,* does not focus on its marketing and advertising approach, yet their minimalist approach of marketing the brand, still is an eyecatcher for skincare and ingredient list fanatics. But how have they been able to maintain such a strong profile without changing their values since their growth?
+This is where *The Ordinary* comes in. On the need for clean and effective skincare, The Ordinary, as of 2016 managed to launch their skincare products at significantly low price points yet being transparent of their products which the skinacre industry had been lacking for a number of years.
 
-![The Ordinary by The Ordinary website](../uploads/unknown.png)
+Unlike other brands, who made a fortune every year, out of the marketisation of a product focusing on words such as 'glowy skin', 'clear skin', 'targeting acne prone skin', *The Ordinary* pioneered in creating affordable and high quality skincare products which specifically focused on one ingredient products to aid targeted areas of the skin.
+
+*The Ordinary,* does not focus on its marketing and advertising approach, yet their minimalist approach of marketing the brand, still is an eyecatcher for skincare and ingredient list fanatics. But how have they been able to maintain such a strong profile without having a strong online presence? How does their brand retain the original values even after the growth of the company?
+
+![The Ordinary www.theordinary.deciem.com](../uploads/unknown.png)
 
 The colours that *The Ordinary* uses are minimalist which is indicative of the fact that the focus is based on the research and quality of the skincare rather than the creation of fancy and luxurious branding. The colours appear to be gender neutral as they range from black, white and grey yet the bold choices of colour show the scientific and serious nature of these products, which by no means does the company want to scare its audience away but rather help the consumer benefit to the maximum through the skincare line.
 
@@ -26,4 +30,6 @@ The tone of voice *The Ordinary* has are:
 
 Friendly , Informative, Scientific, Clear and Concise, low- profile
 
-*The Ordinary*'s skincare know their audience whether that is individuals who know how to solve any issues when it comes to ingredients and formulas one needs however there is a second demographic who are new to the skincare world who's main concern is how reliable is this product which is also The Ordinary's goal to create a trusted environment and casual yet insightful instruction when it comes to the use of their skincare range. Would you choose *The Ordinary* when creating a new skincare regimen?
+*The Ordinary*'s skincare know their demographic whether that is individuals who know how to solve any issues when it comes to skincare due to their knowledge of ingredients and formulas one needs; or their second demographic who are new to the skincare world who's main concern is how reliable a product is. *The Ordinary*'s goal to create a trusted environment and casual yet insightful instruction when it comes to the use of their skincare range. 
+
+Would you choose *The Ordinary* when creating a new skincare regimen?
