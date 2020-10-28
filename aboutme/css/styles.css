@@ -13,13 +13,9 @@ margin:0 20px;
 color:#ffffff;
 cursor: pointer;
 }
-.logo img {
-width:30px;
-margin-top:-7px;
-margin-right: 48px;
-}
+
 .active{
-color: #d5dbdb !important;
+color: #black !important;
 }
 .banner{
 width:80%;
@@ -37,27 +33,35 @@ float: left;
 font-size: 43px;
 width: 640px;
 position: relative;
-margin-left: 40px;
+margin-left:  40px;
 }
 
 p{
 width:650px;
-font-size: 15px;
+font-size: 14px;
 margin:30px 0 30px 40px;
-line-height: 25px
+line-height: 28px
 color:#ffffff;
 
 }
 
 
 .gallery{
-width: 50%;
-float: right;
+width: 67%;
+float:bottom middle;
 }
 .gallery image{
-width: 100%;
-margin-top: -20px;
-padding-left: 50px;
+max-width: 100%;
+
+
+
+}
+
+main{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
 }
 
 
