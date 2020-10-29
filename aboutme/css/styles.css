@@ -51,8 +51,12 @@ header{
     z-index:1;
     background image:linear gradient(to bottom, rgba(0,0,0,.5), transparent);
 }
-    
-    
+.nav{
+    height: 7.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
     
 .menu ul{
 display: inline-flex;
