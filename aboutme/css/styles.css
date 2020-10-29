@@ -57,6 +57,19 @@ header{
     align-items: center;
     justify-content: center;
 }  
+.menu-toggle{
+    color:#ffffff;
+    font-size:2.2rem;
+    position: absolute;
+    top:50%
+        transform: translateY(-50%);
+righ:2.5rem;
+    cursor:pointer;
+    z-index:1500;
+  }
+.fa-times{
+    dispaly: none;
+}
     
 .menu ul{
 display: inline-flex;
