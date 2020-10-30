@@ -71,6 +71,7 @@ h2{
 
 .media{
   position: bottom left;
+  color:#ffffff;
   top:40%;
   left:50%;
   trasform: translate (-53%, -50%);
