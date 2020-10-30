@@ -2,7 +2,8 @@
 layout: post
 title: "CeraVe: Skincare that broke the Internet."
 date: 2020-10-30T12:40:10.699Z
-header_feature_image: ../uploads/skincare.png
+header_feature_image: ../uploads/cerave-skin-care-review-1680x880.jpg
+caption: https://www.stylist.co.uk/beauty/cerave-foaming-cleanser-reparative-eye-cream-hydrating-cleanser-review/402885
 comments: true
 ---
 From drugstore purchases to online shopping CeraVe, with a little help from TikTok, became a product sensation across the skincare community. CeraVe created a Cult. 
