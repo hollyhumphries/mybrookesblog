@@ -68,12 +68,11 @@ padding-right: 50px;
 
 
 h3{
-  font-weight:lighter;
   font-size: 25px;
-  color:#fff;
-  position: relative;
-  text-align:bottom center;
- margin-eft: 40px;
+  width:640px;
+  position:relative;
+  margin-left:40px;
+  
 }
 
 .media{
