@@ -15,6 +15,7 @@ cursor: pointer;
 }
 a {
     text-decoration: none;
+  colour:#ffffff
 }
 .active{
 color: #d5dbdb !important;
