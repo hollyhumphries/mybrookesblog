@@ -71,9 +71,9 @@ h3{
   font-weight:lighter;
   font-size: 25px;
   color:#fff;
+  position: relative;
   text-align:bottom center;
-  padding-top:50px;
-  margin-eft: 40px;
+ margin-eft: 40px;
 }
 
 .media{
