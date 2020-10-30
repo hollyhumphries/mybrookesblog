@@ -77,7 +77,7 @@ h3{
 }
 
 .media{
-  position: absolute;
+  position: bottom left;
   top:40%;
   left:50%;
   trasform: translate (-53%, -50%);
