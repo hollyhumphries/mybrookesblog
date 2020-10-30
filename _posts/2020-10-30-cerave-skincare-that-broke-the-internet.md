@@ -2,7 +2,7 @@
 layout: post
 title: "CeraVe: Skincare that broke the Internet."
 date: 2020-10-30T12:40:10.699Z
-header_feature_image: ../uploads/skincare.png
+header_feature_image: ../uploads/untitled-design-14.png
 caption: ""
 comments: true
 ---
