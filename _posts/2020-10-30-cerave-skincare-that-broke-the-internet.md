@@ -26,7 +26,7 @@ The tone of voice of the brand show what CeraVe’s values emphasise on. These a
 
 Characteristic to the brand are its colours. Blue is the primary and dominant colour of the brand. White is a neutral colour that was first implemented in the whole text and after the rebranding of CeraVe the Ve remained white as opposed to the rest of the text. The Ve in white as well as the remaining capitalisation of the letter V make the brand unique yet signifies minimalism. The trademark and “developed with dermatologists” is  oftenly included in the branding, providing a sense of security and comfort. Consumers feel that they belong in the safe hands of dermatologists. 
 
-![]()
+![](../uploads/cerave-logo-vector.png)
 
 However CeraVe has a whole colour palette depending on the skin issues one faces, however each individual colour portrays a particular value:
 
@@ -40,10 +40,10 @@ However CeraVe has a whole colour palette depending on the skin issues one faces
 * Pantone 337C and 360C : natural
 * Pantone 228C: balance and harmony
 
-The CeraVe brand is simplistic and features the company name in a minimal yet stylish way. The typography is sans-serif uppercase and the fonts resemble ITC Blair and Trade Gothic Extended by Adobe.
+The CeraVe brand is simplistic and features the company name in a minimal yet stylish way. The typography is sans-serif uppercase and the fonts resemble ITC Blair light and Trade Gothic Extended by Adobe.
 
-![](../uploads/unnamed.gif)
+![ITC Blair](../uploads/unnamed.gif "ITC Blair")
 
-![](../uploads/unnamed.jpg)
+![Trade Gothic Extended by Adobe.](../uploads/unnamed.jpg "Trade Gothic Extended by Adobe.")
 
 CeraVe does not focus on the extensive marketisation of their products but the focus is on their formulas which is why their consumers remain loyal. Their success is cemented in this trust.
