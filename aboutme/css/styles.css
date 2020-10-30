@@ -84,7 +84,7 @@ h3{
 }
   
 
-li{
+.media li{
   list-style:none;
   margin:10px 30px;
   display:inline-block;
