@@ -76,7 +76,13 @@ h3{
   margin-bottom: 0;
 }
 
-
+.media{
+  position: absolute;
+  top:40%;
+  left:50%;
+  trasform: translate (-53%, -50%);
+}
+  
 
 li{
   list-style:none;
