@@ -16,7 +16,7 @@ cursor: pointer;
 }
 a {
     text-decoration: none;
-  colour:#ffffff
+  colour:#ffffff;
 }
 .active{
 color: #d5dbdb !important;
@@ -89,3 +89,6 @@ h2{
   transition:.5s;
 }
   
+background-color:{
+  #d9c0aa;
+}
