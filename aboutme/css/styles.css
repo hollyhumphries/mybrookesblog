@@ -3,6 +3,7 @@
   height: 100%;
   background: #d9c0aa;
 }
+
 .menu ul{
 display: inline-flex;
 margin: 50px;
@@ -39,7 +40,9 @@ position: relative;
 margin-left: 40px;
 }
 
-  
+ body{
+   color: #d9c0aa
+}
 p{
 width:650px;
 font-size: 15px;
