@@ -38,11 +38,10 @@ font-size: 43px;
 width: 640px;
 position: relative;
 margin-left: 40px;
-  background-color:
-  #d9c0aa;
 }
-
-
+body {
+ background-color: #d9c0aa;
+}
 
 p{
 width:650px;
