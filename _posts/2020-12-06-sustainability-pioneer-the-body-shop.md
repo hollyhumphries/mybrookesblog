@@ -5,7 +5,9 @@ date: 2020-12-06T19:09:12.070Z
 header_feature_image: ../uploads/720x837_content-2_r.jpeg
 comments: true
 ---
-One of the most discerning values that acted as an impetus for change across the beauty and skincare industry was sustainability. The idea of sustainability is not a new concept, forty years ago this was one of the central principles from which the Body Shop evolved. Its foundations were firmly rooted in sustainability, strong ethics and ensuring the use of natural resources in all products. 
+One of the most discerning values that acted as an impetus for change across the beauty and skincare industry was sustainability. 
+
+The idea of sustainability is not a new concept, forty years ago this was one of the central principles from which the Body Shop evolved. Its foundations were firmly rooted in sustainability, strong ethics and ensuring the use of natural resources in all products. 
 
 In a world where beauty standards revolved around the notion of looking glamorous and  measuring up to societal norms of what was considered beautiful,  the Bodyshop turned this on its head and promoted feeling confident and good within one’s own skin, thus pioneering products for everyone.  Essentially the Bodyshop’s vision was to:
 
