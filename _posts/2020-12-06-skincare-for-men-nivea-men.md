@@ -2,7 +2,7 @@
 layout: post
 title: Skincare for men? Nivea Men.
 date: 2020-12-05T19:34:44.417Z
-header_feature_image: ../uploads/untitled-design-21.png
+header_feature_image: ../uploads/untitled-design-22.png
 comments: true
 ---
 When it comes to men and skincare, there is a distinct lack of education and of acceptance of the need for men to use skincare products by society. This has resulted in the skincare community developing a distinctly restrictive product range which blindly follows the belief that one product will suit every skin type. 
