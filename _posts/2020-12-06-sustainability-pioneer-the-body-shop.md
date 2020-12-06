@@ -2,7 +2,7 @@
 layout: post
 title: "Sustainability Pioneer: The Body Shop."
 date: 2020-12-06T19:09:12.070Z
-header_feature_image: ../uploads/untitled-design-20.png
+header_feature_image: ../uploads/720x837_content-2_r.jpeg
 comments: true
 ---
 One of the most discerning values that acted as an impetus for change across the beauty and skincare industry was sustainability. The idea of sustainability is not a new concept, forty years ago this was one of the central principles from which the Body Shop evolved. Its foundations were firmly rooted in sustainability, strong ethics and ensuring the use of natural resources in all products. 
