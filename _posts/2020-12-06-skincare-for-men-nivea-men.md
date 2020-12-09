@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skincare for men? Nivea Men.
+title: "'Skincare for men? Nivea Men.'"
 date: 2020-12-05T19:34:44.417Z
 header_feature_image: ../uploads/untitled-design-24.png
 comments: true
