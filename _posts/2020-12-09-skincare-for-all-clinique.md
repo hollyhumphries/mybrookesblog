@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Skincare For All: Clinique "
+title: "'Skincare For All: Clinique'"
 date: 2020-12-09T15:14:08.674Z
-header_feature_image: ../uploads/20-06-clinique-bt-build2.jpg
+header_feature_image: ../uploads/untitled-design-32.png
 comments: true
 ---
 In the late 1960’s the idea of allergy tested and fragrance free products was born. Before Clinique, the notion of changing the skin type one’s born with and targeting problematic areas with specific skin care products tailored for the individual was unheard of. Only products for universal use existed before Clinique. 
