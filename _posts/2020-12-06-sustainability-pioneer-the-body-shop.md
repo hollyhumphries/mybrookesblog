@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sustainability Pioneer: The Body Shop."
+title: "'Sustainability Pioneer: The Body Shop.'"
 date: 2020-12-06T19:09:12.070Z
 header_feature_image: ../uploads/untitled-design-30.png
 comments: true
